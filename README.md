@@ -9,7 +9,7 @@ If you want to see how it works yourself:
 2) remove everything from .html file & save
 3) in terminal: python gm_heatmap.py
 
-Wolt has provided the orders.json data, and was provided as a challenge set for developers to: 
+Wolt has provided the orders.json data, and it was created as a challengeset for developers to: 
 "Make something cool"
 
 What the .py-files do:
