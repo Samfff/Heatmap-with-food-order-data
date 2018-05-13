@@ -14,8 +14,7 @@ Wolt has provided the orders.json data, and it was created as a challengeset for
 
 What the .py-files do:
 
-gm_heatmap.py:
-- could be though as 'main.py' as the program is run through this file
+main.py:
 - gathers the relevant data from json_parse and functions from gm_write_heatmap and runs them
 
 json_parse.py: 
